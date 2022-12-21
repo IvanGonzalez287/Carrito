@@ -10,3 +10,4 @@
 
 
 *[Conclusión](#conclusión)
+  En este ejercicio se utiliza mucho el usu de arrays, como recorrelos como vaciarlos.
